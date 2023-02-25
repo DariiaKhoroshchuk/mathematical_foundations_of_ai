@@ -1,0 +1,1 @@
+Develop a software implementation of the clustering algorithm and check the operation of the algorithm on a test set of data.

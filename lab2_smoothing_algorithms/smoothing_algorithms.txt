@@ -1,0 +1,2 @@
+Smoothing algorithm and analysis of averaging methods values of time series
+Conduct an analysis of the quality of averaging values (arithmetic average, quadratic average, geometric mean, harmonic mean, moving average) on the test data sets.

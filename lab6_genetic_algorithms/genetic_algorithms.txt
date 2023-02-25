@@ -1,0 +1,1 @@
+Develop and implement a genetic algorithm for solving the optimization problem on the example of drawing up a schedule of classes for an elementary school.

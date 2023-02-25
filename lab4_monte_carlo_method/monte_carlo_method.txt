@@ -1,0 +1,1 @@
+Develop a software implementation of the Monte Carlo method for calculating the estimate of the value of the definite integral

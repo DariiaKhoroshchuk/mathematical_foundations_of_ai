@@ -1,0 +1,1 @@
+Create and train a neural network for pattern recognition of handwritten digits in Python.
